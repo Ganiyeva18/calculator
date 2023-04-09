@@ -1,0 +1,16 @@
+.parent{
+	display: flex;
+}
+.child{
+	width:cald(100%/3) ;
+}
+img{
+	width: 100%;
+}
+.products-img{
+	height: 180px;
+	width: 180px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
